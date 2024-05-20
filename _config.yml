@@ -28,7 +28,7 @@ author:
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
   uri              : # URL
-  email            : "tanise[dot]ceron[at]ims.uni-stuttgart.de"
+  email            : "tanise.ceron@ims.uni-stuttgart.de"
 
   # Academic websites
 #  arxiv            : "http://arxiv.org/a/ceron_t_1"
@@ -199,7 +199,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  others:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -239,10 +239,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _others
   - scope:
       path: ""
-      type: teaching
+      type: others
     values:
       layout: single
       author_profile: true
