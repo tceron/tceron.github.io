@@ -23,18 +23,19 @@ author:
   # Biographic information
   avatar           : "tanise.jpg"
   name             : "Tanise Ceron"
-  pronouns         : # example: "she/her"  
-  bio              : "Hi, I'm interested in natural language processing and computational social science."
+  pronouns         : "she/her"
+  bio              : "Hi, I'm interested in natural language processing and computational social science.
+                      tanise.ceron[at]ims[dot]uni[minus]stuttgart[dot]de"
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
   uri              : # URL
-  email            : "tanise.ceron@ims.uni-stuttgart.de"
+#  email            : "tanise.ceron@ims.uni-stuttgart.de"
 
   # Academic websites
 #  arxiv            : "http://arxiv.org/a/ceron_t_1"
   googlescholar    : "https://scholar.google.com/citations?user=RvYLVPsAAAAJ&hl=it"
   impactstory      : # URL
-#  orcid            : "https://orcid.org/0009-0002-4845-2789"
+  orcid            : "https://orcid.org/0009-0002-4845-2789"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  researchgate     : # URL
 
