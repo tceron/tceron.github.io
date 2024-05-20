@@ -1,6 +1,6 @@
 # Research visit
 
-* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), UK. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/).
+* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/).
 
 
 # Teaching 
