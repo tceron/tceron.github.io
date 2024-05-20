@@ -5,10 +5,5 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
+{% capture my_include %}{% include_relative _projects/projects-1.md %}{% endcapture %}
+{{ my_include | markdownify }}

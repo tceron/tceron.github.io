@@ -26,3 +26,5 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+
+gem "jekyll-spaceship", "~> 0.5.3"
