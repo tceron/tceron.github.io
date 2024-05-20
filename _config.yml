@@ -24,12 +24,11 @@ author:
   avatar           : "tanise.jpg"
   name             : "Tanise Ceron"
   pronouns         : "she/her"
-  bio              : "Hi, I'm interested in natural language processing and computational social science.
-                      tanise.ceron[at]ims[dot]uni[minus]stuttgart[dot]de"
+  bio              : "PhD candidate in computational linguistics."
   location         : "Stuttgart, Germany"
   employer         : "University of Stuttgart"
   uri              : # URL
-#  email            : "tanise.ceron@ims.uni-stuttgart.de"
+  email            : "tanise[dot]ceron[at]ims.uni-stuttgart.de"
 
   # Academic websites
 #  arxiv            : "http://arxiv.org/a/ceron_t_1"
@@ -65,7 +64,7 @@ author:
 #  steam            : # Username
 #  telegram         : # URL
 #  tumblr           : # Username
-  twitter          : "taniseceron"
+#  twitter          : "taniseceron"
 #  vine             : # Username
 #  weibo            : # Username
 #  wikipedia        : # Username
