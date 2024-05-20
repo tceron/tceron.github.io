@@ -239,10 +239,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _others
+  # _mishmash
   - scope:
       path: ""
-      type: others
+      type: mishmash
     values:
       layout: single
       author_profile: true
