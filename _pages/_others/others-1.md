@@ -18,7 +18,6 @@
 
 ----------------------------------------------------
 
-
 # Talks
 ### 2024
 * **Political Worldviews Embedded IN LLMs.** - Google Deep Mind, Berlin, Germany. 26.03.2024.
@@ -27,3 +26,8 @@
 * **Science Pitch on "How to burst the information bubble?"** - Big Data.AI Summit, Berlin, Germany. Co-presented with Amelie Wuehrl. 21.09.2023.
 * **A Platform for News Curation Focused on News Diversity** - NLP and IR group, University of Mannheim. 07.12.2023.
 
+----------------------------------------------------
+
+# AI Grid Member
+
+I am a member of the [AI Grid](https://ai-grid.org/), a network of AI researchers and practitioners in Germany.
