@@ -4,13 +4,6 @@
 
 ----------------------------------------------------
 
-# Teaching 
-
-* [Winter semester 2022/2023] - Seminar on Computational Analysis of Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with [Prof. Dr. Sebastian Padó](https://nlpado.de/~sebastian/).
-* [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
-
-----------------------------------------------------
-
 # Grant awards 
 
 * **MINT-INNOVATION 2024** - [MINT-INNOVATION](https://vector-stiftung.de/), Germany. 100,000 EUR funded by Vector-Stiftung.
@@ -25,6 +18,13 @@
 ### 2023
 * **Science Pitch on "How to burst the information bubble?"** - Big Data.AI Summit, Berlin, Germany. Co-presented with Amelie Wuehrl. 21.09.2023.
 * **A Platform for News Curation Focused on News Diversity** - NLP and IR group, University of Mannheim. 07.12.2023.
+
+----------------------------------------------------
+
+# Teaching 
+
+* [Winter semester 2022/2023] - Seminar on Computational Analysis of Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with [Prof. Dr. Sebastian Padó](https://nlpado.de/~sebastian/).
+* [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
 
 ----------------------------------------------------
 
