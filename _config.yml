@@ -21,7 +21,7 @@ repository               : "tceron/taniseceron.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tanise.jpg"
+  avatar           : "profile.png"
   name             : "Tanise Ceron"
   pronouns         : "she/her"
   bio              : "PhD candidate in computational linguistics."
