@@ -1,15 +1,15 @@
-# 2024
+## 2024
 * Tanise Ceron, Neele Falk, Ana Baric, Dmitry Nikolaev, and Sebastian Padó. 2024. [Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs](https://arxiv.org/pdf/2402.17649). _To appear in TACL_.
 * Tanise Ceron, Ana Baric, André Blessing, Sebastian Haunss, Jonas Kuhn, Gabriella Lapesa, Sebastian Padó, Sean Papay and Patricia F. Zauchner. 2024. Automatic Analysis of Political Debates and Manifestos: Successes and Challenges. _In Proceedings of the 1st International Conference on Recent Advances in Robust Argumentation Machines (RATIO-24)_. Springer Nature. 
 
-# 2023
+## 2023
 * Tanise Ceron, Dmitry Nikolaev, and Sebastian Padó. 2023.[Additive manifesto decomposition: A policy domain aware method for understanding party positioning](https://aclanthology.org/2023.findings-acl.499.pdf). _In Findings of the Association for Computational Linguistics: ACL 2023_, pages 7874–7890, Toronto, Canada. Association for Computational Linguistics.
 * Dmitry Nikolaev, Tanise Ceron, and Sebastian Padó. 2023. [Multilingual estimation of political-party positioning: From label aggregation to long-input Transformers](https://aclanthology.org/2023.emnlp-main.591.pdf). _In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing_, pages 9497–9511, Singapore. Association for Computational Linguistics.
 
-# 2022
+## 2022
 * Nico Blokker, Tanise Ceron, Andrea Blessing, Erenay Dayanik, Sebastian Haunss, Jonas Kuhn, Gabriella Lapesa and Sebastian Pado. 2022. [Why justifications of claims matter for understanding party positions.](https://old.gscl.org/media/pages/arbeitskreise/cpss/cpss-2022/workshop-proceedings-2022/254133848-1662996909/cpss-2022-proceedings.pdf) _In Proceedings of the 2nd workshop on computational linguistics for political text analysis._
 * Tanise Ceron, Nhut Truong, and Aurelie Herbelot. 2022. [Algorithmic Diversity and Tiny Models: Comparing Binary Networks and the Fruit Fly Algorithm on Document Representation Tasks](https://aclanthology.org/2022.sustainlp-1.4.pdf). _In Proceedings of The Third Workshop on Simple and Efficient Natural Language Processing (SustaiNLP)_, pages 17–28, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
 * Tanise Ceron, Nico Blokker, and Sebastian Padó. 2022. [Optimizing text representations to capture (dis)similarity between political parties](https://aclanthology.org/2022.conll-1.22.pdf). _In Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL)_, pages 325–338, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
 
-# 2021
+## 2021
 * Tanise Ceron and Camilla Casula. (2021). [Exploiting Contextualized Word Representations to Profile Haters on Twitter.](https://ceur-ws.org/Vol-2936/paper-160.pdf) _In CLEF (Working Notes)_ (pp. 1871-1882).
