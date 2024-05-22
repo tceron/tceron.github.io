@@ -30,4 +30,4 @@
 
 # AI Grid Member
 
-I am a member of the [AI Grid](https://ai-grid.org/), a network of AI researchers and practitioners in Germany.
+I am a member of the [AI Grid](https://ai-grid.org/), a network of AI researchers in Germany.
