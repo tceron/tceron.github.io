@@ -13,6 +13,8 @@
 
 # Talks
 ### 2024
+* **Evaluating political biases in LLMs: framework, challenges, and societal implications** - [ILLC](https://projects.illc.uva.nl/LaCo/CLS/), University of Amsterdam, The Netherlands. 04.06.2024.
+
 * **Political Worldviews Embedded IN LLMs.** - Google Deep Mind, Berlin, Germany. 26.03.2024.
 
 ### 2023
