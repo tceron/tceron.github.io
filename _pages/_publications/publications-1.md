@@ -1,5 +1,5 @@
 ## 2024
-* Tanise Ceron, Neele Falk, Ana Baric, Dmitry Nikolaev, and Sebastian Padó. 2024. [Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs](https://arxiv.org/pdf/2402.17649). _To appear in TACL_.
+* Tanise Ceron, Neele Falk, Ana Baric, Dmitry Nikolaev, and Sebastian Padó. 2024. [Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs](https://arxiv.org/pdf/2402.17649). _arXiv preprint arXiv:2402.17649_.
 * Tanise Ceron, Ana Baric, André Blessing, Sebastian Haunss, Jonas Kuhn, Gabriella Lapesa, Sebastian Padó, Sean Papay and Patricia F. Zauchner. 2024. Automatic Analysis of Political Debates and Manifestos: Successes and Challenges. _In Proceedings of the 1st International Conference on Recent Advances in Robust Argumentation Machines (RATIO-24)_. Springer Nature. 
 
 ## 2023
