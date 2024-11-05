@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Tanise Ceron"
   pronouns         : "she/her"
-  bio              : "PhD candidate in computational linguistics."
-  location         : "Stuttgart, Germany"
-  employer         : "University of Stuttgart"
+  bio              : "Postdoctoral researcher at [MilaNLP](https://milanlproc.github.io)"
+  location         : "Milan, Italy"
+  employer         : "Bocconi University"
   uri              : # URL
-  email            : "tanise.ceron@ims.uni-stuttgart.de"
+  email            : "tanise.ceron@unibocconi.it"
 
   # Academic websites
 #  arxiv            : "http://arxiv.org/a/ceron_t_1"
