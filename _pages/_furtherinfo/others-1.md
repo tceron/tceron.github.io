@@ -1,6 +1,6 @@
 # Research visit
 
-* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/).
+* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/). 
 
 ----------------------------------------------------
 
@@ -29,6 +29,15 @@
 * [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
 
 ----------------------------------------------------
+
+# PhD degree
+
+PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
+
+Title of the thesis: **Methods for Mining Politial Opinions from Texts and Large Language Models.** 
+
+----------------------------------------------------
+
 
 # AI Grid Member
 
