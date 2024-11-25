@@ -32,7 +32,7 @@
 
 # PhD degree
 
-PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
+[October 2021-October 2024] - PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
 
 Title of the thesis: **Methods for Mining Politial Opinions from Texts and Large Language Models.** 
 
