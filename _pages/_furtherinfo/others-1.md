@@ -38,9 +38,10 @@
 
 I've supervised/I am supervising the following master's theses: 
 
-* Identifying the positioning of parties based on the political debate on Twitter/X. 
-* Generalizing frames identification in news articles. 
-* Diversifying news recommenders with frames. 
+* [2023] Identifying the positioning of parties based on the political debate on Twitter/X. 
+* [2024/2025] Generalizing frames identification in news articles. 
+* [2025] Diversifying news recommenders with frames. 
+* [2025] Understanding power relations in war conflicts as portrayed by the media. 
 
 # PhD degree
 
