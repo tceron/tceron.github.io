@@ -1,9 +1,3 @@
-# Research visit
-
-* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/). 
-
-----------------------------------------------------
-
 # Grant awards 
 
 * **MINT-INNOVATION 2024** - [MINT-INNOVATION](https://vector-stiftung.de/15-millionen-euro-fuer-innovative-mint-forschung-in-baden-wuerttemberg-2/), Germany. 100,000 EUR funded by Vector-Stiftung. Co-joint application with [Amelie Wuehrl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en).
@@ -42,6 +36,14 @@ I've supervised/I am supervising the following master's theses:
 * [2024/2025] Generalizing frames identification in news articles. 
 * [2025] Diversifying news recommenders with frames. 
 * [2025] Understanding power relations in war conflicts as portrayed by the media. 
+
+----------------------------------------------------
+
+# Research visit
+
+* [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/). 
+
+----------------------------------------------------
 
 # PhD degree
 
