@@ -13,7 +13,11 @@
 
 # Talks
 ### 2024
-* **Evaluating political biases in LLMs: framework, challenges, and societal implications** - [ILLC](https://projects.illc.uva.nl/LaCo/CLS/), University of Amsterdam, The Netherlands. 04.06.2024.
+* **Evaluating political biases in LLMs: framework, challenges, and societal implications** 
+    
+    [ILLC](https://projects.illc.uva.nl/LaCo/CLS/), University of Amsterdam, The Netherlands. 04.06.2024.
+
+    Department of Communication Science, Free University of Amsterdam, 31.05.2024.
 
 * **Political Worldviews Embedded IN LLMs.** - Google Deep Mind, Berlin, Germany. 26.03.2024.
 
@@ -30,15 +34,20 @@
 
 ----------------------------------------------------
 
+# Master's thesis supervision 
+
+I've supervised/I am supervising the following master's theses: 
+
+* Identifying the positioning of parties based on the political debate on Twitter/X. 
+* Generalizing frames identification in news articles. 
+* Diversifying news recommenders with frames. 
+
 # PhD degree
 
-[October 2021-October 2024] - PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
+PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
+
+Defense: October 14, 2024. 
 
 Title of the thesis: **Methods for Mining Politial Opinions from Texts and Large Language Models.** 
 
 ----------------------------------------------------
-
-
-# AI Grid Member
-
-I am a member of the [AI Grid](https://ai-grid.org/), a network of AI researchers in Germany.
