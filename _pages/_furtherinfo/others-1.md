@@ -3,7 +3,7 @@
 * **MINT-INNOVATION 2024** - [MINT-INNOVATION](https://vector-stiftung.de/15-millionen-euro-fuer-innovative-mint-forschung-in-baden-wuerttemberg-2/), Germany. 100,000 EUR funded by Vector-Stiftung. Co-joint application with [Amelie Wuehrl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en).
 * **Software Campus 2023** - [Software Campus](https://www.softwarecampus.de/), Germany. 114,000 EUR funded by BMBF.
 
-----------------------------------------------------
+-----------------------------------------------------
 
 # Talks
 ### 2024
