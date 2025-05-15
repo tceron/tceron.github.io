@@ -6,6 +6,16 @@
 -----------------------------------------------------
 
 # Talks
+
+### 2025
+
+* Talk at the Digital Humanities at Fondazione Bruno Kessler (Trento, Italy) on May 14. 
+
+* Talk at the CIMeC Seminar Series at the University of Trento (Italy) on May 13. 
+
+* Talk at the [#TaDa Speaker Series](https://sites.google.com/view/polsci-ml-initiative/talks) on April 30. 
+
+
 ### 2024
 * **Evaluating political biases in LLMs: framework, challenges, and societal implications** 
     
@@ -22,6 +32,8 @@
 ----------------------------------------------------
 
 # Teaching 
+
+* [May 2025] Guest Lecture on Ethics in NLP for the master's course on Data Science and Business Analytics at Bocconi University. 
 
 * [Winter semester 2022/2023] - Seminar on Computational Analysis of Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with [Prof. Dr. Sebastian Padó](https://nlpado.de/~sebastian/).
 * [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
