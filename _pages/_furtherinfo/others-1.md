@@ -9,7 +9,7 @@
 
 ### 2025
 
-* @Institute for Societal Computing at the University of Saarland on June 6. Find the video of the talk [here](https://youtu.be/_a4iCiDt7fg?feature=shared). 
+* @Institute for Societal Computing at the University of Saarland on June 6. [Video of the talk](https://youtu.be/_a4iCiDt7fg?feature=shared). 
 
 * @Fondazione Bruno Kessler (Trento, Italy) on May 14. 
 
