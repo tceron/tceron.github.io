@@ -9,13 +9,13 @@
 
 ### 2025
 
-* Talk at the Institute for Societal Computing at the University of Saarland on June 6. Find the video of the talk [here](https://youtu.be/_a4iCiDt7fg?feature=shared). 
+* @Institute for Societal Computing at the University of Saarland on June 6. Find the video of the talk [here](https://youtu.be/_a4iCiDt7fg?feature=shared). 
 
-* Talk at the Digital Humanities at Fondazione Bruno Kessler (Trento, Italy) on May 14. 
+* @Fondazione Bruno Kessler (Trento, Italy) on May 14. 
 
-* Talk at the CIMeC Seminar Series at the University of Trento (Italy) on May 13. 
+* @CIMeC Seminar Series at the University of Trento (Italy) on May 13. 
 
-* Talk at the [#TaDa Speaker Series](https://sites.google.com/view/polsci-ml-initiative/talks) on April 30. 
+* @[#TaDa Speaker Series](https://sites.google.com/view/polsci-ml-initiative/talks) on April 30. 
 
 
 ### 2024
