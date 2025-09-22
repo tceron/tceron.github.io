@@ -3,7 +3,7 @@
 
 * Sourabh Dattawad, Agnese Daffara, **Tanise Ceron**. 2025. [Leveraging Media Frames to Improve Normative Diversity in News Recommendations](https://arxiv.org/pdf/2509.02266). _In Proceedings of the 13th International Workshop on News Recommendation and Analytics._ Co-located with RecSys 2025, Prague, Czech Republic. 
 
-* Tanise Ceron. 2025. [Methods for mining political opinions from texts and large language models](https://elib.uni-stuttgart.de/server/api/core/bitstreams/087ead29-133c-4d5c-8133-d0b5f475fff2/content). PhD Thesis. 
+* Tanise Ceron. 2025. [Methods for mining political opinions from texts and large language models](https://elib.uni-stuttgart.de/server/api/core/bitstreams/087ead29-133c-4d5c-8133-d0b5f475fff2/content). PhD Thesis. University of Stuttgart. 
 
 ## 2024
 * Maximilian Maurer, **Tanise Ceron**, Sebastian Padó, Gabriella Lapesa. 2024. [Toeing the Party Line: Election Manifestos as a Key to Understand Political Discourse on Twitter](https://aclanthology.org/2024.findings-emnlp.354/). _In Findings of the Association for Computational Linguistics: EMNLP 2024_, pages 6115–6130, Miami, Florida, USA.
