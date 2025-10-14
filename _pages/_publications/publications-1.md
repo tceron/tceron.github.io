@@ -1,4 +1,9 @@
 ## 2025
+
+* **Tanise Ceron**, Dmitry Nikolaev, Dominik Stammbach, Debora Nozza. 2025. [What Is The Political Content in LLMs' Pre-and Post-Training Data?](https://arxiv.org/pdf/2509.22367?). Preprint arXiv: 2509.22367. 
+
+* Franziska Weeber, **Tanise Ceron**, Sebastian Padó. 2025. [Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs](https://arxiv.org/pdf/2508.05553). Preprint arXiv: 2508.05553. 
+
 * Agnese Daffara, Sourabh Dattawad, Sebastian Padó, **Tanise Ceron**. 2025. [Generalizability of Media Frames: Corpus creation and analysis across countries](https://arxiv.org/pdf/2506.16337). In Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM). Co-located with EMNLP, Suzhou, China. 
 
 * Sourabh Dattawad, Agnese Daffara, **Tanise Ceron**. 2025. [Leveraging Media Frames to Improve Normative Diversity in News Recommendations](https://arxiv.org/pdf/2509.02266). _In Proceedings of the 13th International Workshop on News Recommendation and Analytics._ Co-located with RecSys 2025, Prague, Czech Republic. 
