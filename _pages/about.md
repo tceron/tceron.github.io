@@ -15,4 +15,4 @@ My research interests naturally lead me to reflect a lot about the impact of AI 
 
 Finally, I also enjoy thinking about the implementation of my research in real world use case applications for social good, such as news recommenders. Speaking of which, I am co-leading the project [MULTIVIEW](https://www.ims.uni-stuttgart.de/en/research/projects/multiview/) which investigates methods for diversifying news recommendations in terms of perspectives. 
 
-In my free time, I like to read, bike and free-dive. :) 
+In my free time, I like to bike and free-dive. :) 
