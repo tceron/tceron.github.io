@@ -35,7 +35,7 @@
 
 # Teaching 
 
-* [May 2025] Guest Lecture on Ethics in NLP for the master's course on Data Science and Business Analytics at Bocconi University. 
+* [May 2025 and 2026] Guest Lecture on Ethics in NLP for the master's course on Data Science and Business Analytics at Bocconi University. 
 
 * [Winter semester 2022/2023] - Seminar on Computational Analysis of Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with [Prof. Dr. Sebastian Padó](https://nlpado.de/~sebastian/).
 * [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
@@ -45,7 +45,8 @@
 # Master's thesis supervision 
 
 I've supervised/I am supervising the following master's theses: 
- 
+
+* [2026] Steering language models towards objectivity. 
 * [2025] Diversifying news recommenders with frames. 
 * [2025] Understanding power relations in war conflicts as portrayed by the media. 
 * [2024/2025] Generalizing frames identification in news articles. 
@@ -61,10 +62,8 @@ I've supervised/I am supervising the following master's theses:
 
 # PhD degree
 
-PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. 
+PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. October 14, 2024. 
 
-Defense: October 14, 2024. 
-
-Title of the thesis: **Methods for Mining Politial Opinions from Texts and Large Language Models.** 
+Thesis on **Methods for Mining Political Opinions from Texts and Large Language Models** which received Summa Cum Laude. 
 
 ----------------------------------------------------
