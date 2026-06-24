@@ -1,0 +1,9 @@
+---
+layout: archive
+title: ""
+permalink: /blog/
+author_profile: true
+---
+
+{% capture my_include %}{% include_relative _blog/post-1.md %}{% endcapture %}
+{{ my_include | markdownify }}

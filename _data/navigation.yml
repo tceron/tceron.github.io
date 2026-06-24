@@ -12,6 +12,9 @@ main:
   - title: "Further info"
     url: /furtherinfo/
 
+  - title: "Blog"
+    url: /blog/
+
 #  - title: "Grants"
 #    url: /grants/
 
