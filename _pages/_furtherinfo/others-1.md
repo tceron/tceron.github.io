@@ -7,41 +7,31 @@
 
 # Talks
 
-### 2026 
+### 2026
 
-* Talk and participation in the panel discussion on "Regulating algorithms: mandates and practices" at the _AI-Mediated Public Sphere_ Conference at Sciences Po on May 19. 
-
-* ALMAnaCH, INRIA on May 22. 
-
-* CEDAR, INRIA (Paris Saclay) on May 28. 
-
-* MLIA, ISIR (Sorbonne) on June 1. 
-
-* LISN, Paris Saclay on June 2. 
+* **Sciences Po** — May 19. Talk and panel discussion on "Regulating algorithms: mandates and practices" at the _AI-Mediated Public Sphere_ Conference.
+* **ALMAnaCH, INRIA** — May 22.
+* **CEDAR, INRIA**, Paris Saclay — May 28.
+* **MLIA, ISIR**, Sorbonne — June 1.
+* **LISN**, Paris Saclay — June 2.
 
 ### 2025
 
-* Institute for Societal Computing at the University of Saarland on June 6. [Video of the talk](https://youtu.be/_a4iCiDt7fg?feature=shared). 
-
-* Fondazione Bruno Kessler (Trento, Italy) on May 14. 
-
-* CIMeC Seminar Series at the University of Trento (Italy) on May 13. 
-
-* [#TaDa Speaker Series](https://sites.google.com/view/polsci-ml-initiative/talks) on April 30. 
-
+* **Institute for Societal Computing**, University of Saarland — June 6. [Video of the talk](https://youtu.be/_a4iCiDt7fg?feature=shared).
+* **Fondazione Bruno Kessler**, Trento, Italy — May 14.
+* **CIMeC Seminar Series**, University of Trento, Italy — May 13.
+* **[#TaDa Speaker Series](https://sites.google.com/view/polsci-ml-initiative/talks)** — April 30.
 
 ### 2024
-* **Evaluating political biases in LLMs: framework, challenges, and societal implications** 
-    
-    [ILLC](https://projects.illc.uva.nl/LaCo/CLS/), University of Amsterdam on June 06.
 
-    Department of Communication Science, Free University of Amsterdam on May 31. 
-
-* **Political Worldviews Embedded IN LLMs.** - Google Deep Mind, Berlin, Germany on March 26. 
+* **[ILLC](https://projects.illc.uva.nl/LaCo/CLS/)**, University of Amsterdam — June 6. _Evaluating political biases in LLMs: framework, challenges, and societal implications._
+* **Department of Communication Science**, Free University of Amsterdam — May 31. _Evaluating political biases in LLMs: framework, challenges, and societal implications._
+* **Google DeepMind**, Berlin, Germany — March 26. _Political Worldviews Embedded in LLMs._
 
 ### 2023
-* **Science Pitch on "How to burst the information bubble?"** - Big Data.AI Summit, Berlin, Germany. Co-presented with Amelie Wuehrl on September 19. 
-* **A Platform for News Curation Focused on News Diversity** - NLP and IR group, University of Mannheim on December 07. 
+
+* **Big Data.AI Summit**, Berlin, Germany — September 19. _Science Pitch on "How to burst the information bubble?"_ Co-presented with Amelie Wuehrl.
+* **NLP and IR group**, University of Mannheim — December 7. _A Platform for News Curation Focused on News Diversity._
 
 ----------------------------------------------------
 
