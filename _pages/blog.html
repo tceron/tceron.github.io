@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
 
-{% capture my_include %}{% include_relative _blog/post-1.md %}{% endcapture %}
-{{ my_include | markdownify }}
+{% assign posts = site.blog | sort: 'date' | reverse %}
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}

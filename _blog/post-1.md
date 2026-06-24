@@ -1,4 +1,8 @@
-## ChatGPT is NOT an oracle and should NOT be treated as one
+---
+title: "ChatGPT is NOT an oracle and should NOT be treated as one"
+date: 2026-02-23
+excerpt: "Published at the special issue of Bocconi's Magazine — why we must be even more critical with LLM-powered chatbots than with traditional media."
+---
 
 Published at the special issue of [Bocconi's Magazine](https://www.unibocconi.it/en/news/chatgpt-not-oracle). 
 
