@@ -6,6 +6,8 @@ excerpt: "A post on the series: 'How to protect ourselves while benefiting from 
 
 Published at the special issue of [Bocconi's Magazine](https://www.unibocconi.it/en/news/chatgpt-not-oracle). 
 
+*Leia em português: [O ChatGPT NÃO é um oráculo e NÃO deve ser tratado como tal]({{ "/blog/post-1-pt/" | relative_url }}).*
+
 The other day, I hear someone who is highly ranked in their professional career saying: “I didn’t know how to answer that question because I didn’t know what they meant by that term in that context, so I asked ChatGPT to solve my doubt.” 
 A couple of weeks ago, a friend of mine goes to the doctor. At some point, the doctor pulls out her cell phone in the middle of the discussion, googles, shows my friend Google’s generated AI Overview and tells him she is right because AI Overview confirms her belief. 
 On a beautiful Sunday, my friend tells me he wants to change his dog’s diet because he is getting old. He is planning to ask ChatGPT to calculate the proportions for the diet. He asks me what I think about it. I don’t even have time to reply as he looks at my worried expression and continues saying: “yes, then I can ask Claude or Deepseek to compare answers and estimate the accuracy.” At that point, my worried face grows even more expressive, turning almost into despair. 
