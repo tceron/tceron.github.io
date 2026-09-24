@@ -2,6 +2,7 @@
 title: "O ChatGPT NÃO é um oráculo e NÃO deve ser tratado como tal"
 date: 2026-02-23
 excerpt: "A post on the series: 'How to protect ourselves while benefiting from these models?' Why we must be even more critical with LLM-powered chatbots than with traditional media."
+translation_of: /blog/post-1/
 ---
 
 Published at the special issue of [Bocconi's Magazine](https://www.unibocconi.it/en/news/chatgpt-not-oracle). 

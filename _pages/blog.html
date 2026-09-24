@@ -5,7 +5,7 @@ permalink: /blog/
 author_profile: true
 ---
 
-{% assign posts = site.blog | sort: 'date' | reverse %}
+{% assign posts = site.blog | where_exp: "post", "post.translation_of == nil" | sort: 'date' | reverse %}
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
