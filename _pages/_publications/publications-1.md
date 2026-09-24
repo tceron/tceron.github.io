@@ -1,5 +1,9 @@
 ## 2026
 
+* **Tanise Ceron**, Joachim Baumann, Elisa Bassignana, Berat Cabuk, Dirk Hovy, Debora Nozza. 2026. [WildSEEK: Evaluating Language Models for Information-Seeking](https://arxiv.org/abs/2608.30683). _In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)_ Budapest, Hungary. 
+
+* Agnese Daffara, Sebastian Padó, **Tanise Ceron**. 2026. [Structuring the Space of Perspectives](https://arxiv.org/pdf/2608.12113). Under review. 
+
 * Hardy, Sebastian Pado, Amelie Wuhrl, **Tanise Ceron**. 2026. [Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE](https://arxiv.org/pdf/2508.13978). _In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)._ Montreal, Canada. 
 
 * Franziska Weeber, **Tanise Ceron**, Sebastian Padó. 2026. [Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs](https://arxiv.org/pdf/2508.05553). _In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)._ Rabat, Morocco. 
