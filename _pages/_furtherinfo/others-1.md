@@ -9,6 +9,8 @@
 
 ### 2026
 
+* **Hertie School** - [September 22](https://www.hertie-school.org/en/digitalgovernance/news/detail-1/content/tanise-ceron-explains-why-an-ai-cant-be-politically-neutral). 
+* **CPSS Workshop** - September 15. Panel discussion on ["Human Perspectives and LLMs"](https://sites.google.com/view/cpss2026konvens/program#h.73btp2fl0bju)
 * **Sciences Po** — May 19. Talk and panel discussion on "Regulating algorithms: mandates and practices" at the _AI-Mediated Public Sphere_ Conference.
 * **ALMAnaCH, INRIA** — May 22.
 * **CEDAR, INRIA**, Paris Saclay — May 28.
