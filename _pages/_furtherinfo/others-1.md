@@ -1,11 +1,13 @@
-# Grant awards 
+<details class="info-section" markdown="1">
+<summary>Grant awards</summary>
 
 * **MINT-INNOVATION 2024** - [MINT-INNOVATION](https://vector-stiftung.de/15-millionen-euro-fuer-innovative-mint-forschung-in-baden-wuerttemberg-2/), Germany. 100,000 EUR funded by Vector-Stiftung. Co-led with [Amelie Wuehrl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en).
 * **Software Campus 2023** - [Software Campus](https://www.softwarecampus.de/), Germany. 114,000 EUR funded by BMBF.
 
------------------------------------------------------
+</details>
 
-# Talks
+<details class="info-section" markdown="1">
+<summary>Talks/Panel Discussions</summary>
 
 ### 2026
 
@@ -35,9 +37,10 @@
 * **Big Data.AI Summit**, Berlin, Germany — September 19. _Science Pitch on "How to burst the information bubble?"_ Co-presented with Amelie Wuehrl.
 * **NLP and IR group**, University of Mannheim — December 7. _A Platform for News Curation Focused on News Diversity._
 
-----------------------------------------------------
+</details>
 
-# Teaching 
+<details class="info-section" markdown="1">
+<summary>Teaching</summary>
 
 * [Summer semester 2025 and 2026] - Teaching Assistant for the master's course on Data Science and Business Analytics at Bocconi University.
 
@@ -47,9 +50,10 @@
 
 * [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
 
-----------------------------------------------------
+</details>
 
-# Master's thesis supervision 
+<details class="info-section" markdown="1">
+<summary>Master's thesis supervision</summary>
 
 I've supervised/I am supervising the following master's theses: 
 
@@ -60,18 +64,20 @@ I've supervised/I am supervising the following master's theses:
 * [2024/2025] Assessing Large Language Models (LLMs) for Frame Prediction: A Study on Generalization Across Diverse Political Issues and Communication Contexts.
 * [2023] Analysis of Political Positioning from Politician’s Tweets.
 
-----------------------------------------------------
+</details>
 
-# Research visit
+<details class="info-section" markdown="1">
+<summary>Research visit</summary>
 
 * [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/). 
 
-----------------------------------------------------
+</details>
 
-# PhD degree
+<details class="info-section" markdown="1">
+<summary>PhD degree</summary>
 
-PhD degree in computational linguistics from the [Institute for Natural Language Processing]((https://www.ims.uni-stuttgart.de)) at the University of Stuttgart. October 14, 2024. 
+PhD degree in computational linguistics from the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de) at the University of Stuttgart. October 14, 2024. 
 
 Thesis on **Methods for Mining Political Opinions from Texts and Large Language Models**  (Summa Cum Laude)
 
-----------------------------------------------------
+</details>

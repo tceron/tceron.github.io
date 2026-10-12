@@ -399,3 +399,226 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   About tile (home page)
+   ========================================================================== */
+
+.about-tile {
+  padding: 1.5em 2em;
+  margin: 1em 0 2em;
+  background-color: $tile-background-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius * 2;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  @include breakpoint(max-width $small) {
+    padding: 1em 1.25em;
+  }
+}
+
+/*
+   Publications list
+   ========================================================================== */
+
+.publications {
+  h2 {
+    margin-top: 2em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid $border-color;
+    color: $primary-color;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li,
+  li > p {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  li > p {
+    margin: 0;
+  }
+
+  li {
+    margin: 0 0 1em;
+    padding: 1em 1.25em;
+    background-color: $tile-background-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius * 2;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      transform: translateY(-1px);
+    }
+  }
+
+  .pub-title {
+    display: block;
+    margin: 0.35em 0 0.25em;
+    font-weight: bold;
+    line-height: 1.35;
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+
+  .pub-authors,
+  .pub-venue {
+    display: block;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+
+  .pub-venue {
+    color: $gray;
+  }
+}
+
+/* Shared by the Publications and Projects pages */
+
+.publications,
+.projects {
+  .pub-badge {
+    display: inline-block;
+    padding: 0.15em 0.6em;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    color: #fff;
+    border-radius: $border-radius;
+    background-color: $primary-color;
+
+    &.conf     { background-color: #2f6fad; }
+    &.journal  { background-color: #2e8b57; }
+    &.workshop { background-color: #c9792b; }
+    &.preprint { background-color: #7a8288; }
+    &.thesis   { background-color: #7b4fa3; }
+    &.current  { background-color: #2e8b57; }
+    &.past     { background-color: #7a8288; }
+  }
+
+  .pub-link {
+    margin-top: 0.5em;
+    padding: 0.15em 0.7em;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    color: $primary-color;
+    text-decoration: none;
+    border: 1px solid $primary-color;
+    border-radius: $border-radius;
+
+    &:hover {
+      color: #fff;
+      background-color: $primary-color;
+    }
+  }
+}
+
+/*
+   Projects page
+   ========================================================================== */
+
+.project-card {
+  > summary {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .pub-badge {
+    display: table;
+    margin-bottom: 0.4em;
+    font-size: 0.55em;
+  }
+
+  .project-title {
+    display: block;
+    line-height: 1.3;
+  }
+
+  .project-funding {
+    font-size: $type-size-6;
+    color: $gray;
+  }
+
+  > :first-child + * {
+    margin-top: 1em;
+  }
+}
+
+/*
+   Further information page (collapsible sections)
+   ========================================================================== */
+
+.info-section {
+  margin: 0 0 1em;
+  background-color: $tile-background-color;
+  border: 1px solid $border-color;
+  border-radius: $border-radius * 2;
+
+  > summary {
+    position: relative;
+    padding: 0.9em 2.5em 0.9em 1.25em;
+    font-family: $header-font-family;
+    font-size: $type-size-4;
+    font-weight: bold;
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "\25BE";
+      position: absolute;
+      right: 1em;
+      top: 50%;
+      color: $primary-color;
+      transform: translateY(-50%);
+      transition: transform 0.2s ease;
+    }
+
+    &:hover {
+      color: $link-color;
+    }
+  }
+
+  &[open] > summary {
+    border-bottom: 1px solid $border-color;
+
+    &::after {
+      transform: translateY(-50%) rotate(180deg);
+    }
+  }
+
+  > :not(summary) {
+    margin-left: 1.25em;
+    margin-right: 1.25em;
+  }
+
+  > :last-child {
+    margin-bottom: 1.25em;
+  }
+
+  h3 {
+    margin-top: 1.25em;
+    color: $primary-color;
+  }
+}
