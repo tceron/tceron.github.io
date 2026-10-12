@@ -514,6 +514,17 @@
     &.past     { background-color: #7a8288; }
   }
 
+  .pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-top: 0.5em;
+
+    .pub-link {
+      margin-top: 0;
+    }
+  }
+
   .pub-link {
     margin-top: 0.5em;
     padding: 0.15em 0.7em;
@@ -527,6 +538,14 @@
     &:hover {
       color: #fff;
       background-color: $primary-color;
+    }
+
+    &.pub-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 2.2em;
+      font-size: $type-size-6;
     }
   }
 }

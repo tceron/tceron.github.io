@@ -15,6 +15,6 @@ I'm a Postdoctoral Research Fellow at the [MilaNLP](https://milanlproc.github.io
 
 Besides models themselves, I am also very interested in text analysis. I am co-leading the project [MULTIVIEW](https://www.ims.uni-stuttgart.de/en/research/projects/multiview/) where we investigate methods for capturing perspectives in texts, how users perceive framing, and how current framing detection methods generalize across topics. 
 
-In my free time, I like to bike and free-dive. :)
+In my free time, I like to bike 🚴 and free-dive 🤿.
 
 </div>
