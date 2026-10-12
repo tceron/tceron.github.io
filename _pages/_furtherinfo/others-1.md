@@ -55,15 +55,14 @@
 <details class="info-section" markdown="1">
 <summary>Thesis supervision</summary>
 
-I've supervised/I am supervising the following master's theses: 
+I've supervised/I am supervising the following masters or bachelors' theses: 
 
-* [2026-BA] Steering objectivity in LLM-generated responses
-* [2026-MA] The Effect of Data Removal and Rebalancing on Opinions Reflected in LLMs. 
-* [2026-MA] Steering Language Models Towards Objectivity (BA thesis). 
-* [2025-MA] Integrating News Frames into Recommender Systems: Effects on Normative Diversity and Quality of News Recommendations.
-* [2025-MA] Framing Power and Agency in the Israel-Palestine Conflict: A Computational Analysis of American, British, and Arab Media.
-* [2024/2025-MA] Assessing Large Language Models (LLMs) for Frame Prediction: A Study on Generalization Across Diverse Political Issues and Communication Contexts.
-* [2023-MA] Analysis of Political Positioning from Politician’s Tweets.
+* [BA] Steering objectivity in LLM-generated responses
+* [MA] The Effect of Data Removal and Rebalancing on Opinions Reflected in LLMs. 
+* [MA] Integrating News Frames into Recommender Systems: Effects on Normative Diversity and Quality of News Recommendations.
+* [MA] Framing Power and Agency in the Israel-Palestine Conflict: A Computational Analysis of American, British, and Arab Media.
+* [MA] Assessing Large Language Models (LLMs) for Frame Prediction: A Study on Generalization Across Diverse Political Issues and Communication Contexts.
+* [MA] Analysis of Political Positioning from Politician’s Tweets.
 
 </details>
 

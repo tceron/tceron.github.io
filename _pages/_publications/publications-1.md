@@ -27,7 +27,7 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   [Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-title}
   <span class="pub-authors">Hardy Hardy, Sebastian Pado, Amelie Wuhrl, **Tanise Ceron**</span>
   <span class="pub-venue">_Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT)_, Montreal, Canada</span>
-  [ACM](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-link}
+  <span class="pub-links">[ACM](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-link} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/blodstone/DemocraticRecSys){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
 * <span class="pub-badge conf">EACL</span>
   [Do Political Opinions Transfer Between Western Languages? An Analysis of Unaligned and Aligned Multilingual LLMs](https://aclanthology.org/2026.eacl-long.14/){: .pub-title}
