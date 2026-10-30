@@ -18,10 +18,10 @@ Icon buttons for code (GitHub) and data (Hugging Face):
 ## 2026
 
 * <span class="pub-badge conf">EMNLP</span>
-  [WildSEEK: Evaluating Language Models for Information-Seeking](https://arxiv.org/abs/2608.30683){: .pub-title}
+  [WildSEEK: Evaluating Language Models for Information-Seeking](https://aclanthology.org/2026.emnlp-main.763/){: .pub-title}
   <span class="pub-authors">**Tanise Ceron**, Joachim Baumann, Elisa Bassignana, Berat Cabuk, Dirk Hovy, Debora Nozza</span>
   <span class="pub-venue">_Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)_, Budapest, Hungary</span>
-  <span class="pub-links">[arXiv](https://arxiv.org/abs/2608.30683){: .pub-link} [Website](https://tceron.github.io/wildseek-eval/){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/wildseek){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/wildseek-eval){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
+  <span class="pub-links">[ACL anthology](https://aclanthology.org/2026.emnlp-main.763/){: .pub-link} [Website](https://tceron.github.io/wildseek-eval/){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/wildseek){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/wildseek-eval){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
 * <span class="pub-badge conf">FAccT</span>
   [Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-title}
