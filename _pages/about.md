@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**📢 [Call for Papers now open!](https://sites.google.com/view/multidems/home)** [MultiDems - NLP for Democracies](https://sites.google.com/view/multidems/home), the 1st Multidisciplinary Workshop on NLP for Democracies, co-located with EACL 2027, Athens, Greece.
+
 <div class="about-tile" markdown="1">
 
 Hi, 

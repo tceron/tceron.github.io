@@ -41,10 +41,10 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   <span class="pub-venue">_Preprint_, arXiv:2509.22367</span>
   <span class="pub-links">[arXiv](https://arxiv.org/pdf/2509.22367){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/stancepol){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/political_content_training_data){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
-* <span class="pub-badge preprint">Preprint</span>
+* <span class="pub-badge journal">TACL</span>
   [Structuring the Space of Perspectives](https://arxiv.org/pdf/2608.12113){: .pub-title}
   <span class="pub-authors">Agnese Daffara, Sebastian Padó, **Tanise Ceron**</span>
-  <span class="pub-venue">_Preprint_</span>
+  <span class="pub-venue">_Transactions of the Association for Computational Linguistics (TACL)_, to appear</span>
   [arXiv](https://arxiv.org/pdf/2608.12113){: .pub-link}
 
 ## 2025
