@@ -23,6 +23,12 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   <span class="pub-venue">_Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)_, Budapest, Hungary</span>
   <span class="pub-links">[ACL Anthology](https://aclanthology.org/2026.emnlp-main.763/){: .pub-link} [Website](https://tceron.github.io/wildseek-eval/){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/wildseek){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/wildseek-eval){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
+* <span class="pub-badge journal">TACL</span>
+  [Structuring the Space of Perspectives](https://arxiv.org/pdf/2608.12113){: .pub-title}
+  <span class="pub-authors">Agnese Daffara, Sebastian Padó, **Tanise Ceron**</span>
+  <span class="pub-venue">_Transactions of the Association for Computational Linguistics (TACL)_, to appear</span>
+  [arXiv](https://arxiv.org/pdf/2608.12113){: .pub-link}
+
 * <span class="pub-badge conf">FAccT</span>
   [Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-title}
   <span class="pub-authors">Hardy Hardy, Sebastian Pado, Amelie Wuhrl, **Tanise Ceron**</span>
@@ -40,12 +46,6 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   <span class="pub-authors">**Tanise Ceron**, Dmitry Nikolaev, Dominik Stammbach, Debora Nozza</span>
   <span class="pub-venue">_Preprint_, arXiv:2509.22367</span>
   <span class="pub-links">[arXiv](https://arxiv.org/pdf/2509.22367){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/stancepol){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/political_content_training_data){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
-
-* <span class="pub-badge journal">TACL</span>
-  [Structuring the Space of Perspectives](https://arxiv.org/pdf/2608.12113){: .pub-title}
-  <span class="pub-authors">Agnese Daffara, Sebastian Padó, **Tanise Ceron**</span>
-  <span class="pub-venue">_Transactions of the Association for Computational Linguistics (TACL)_, to appear</span>
-  [arXiv](https://arxiv.org/pdf/2608.12113){: .pub-link}
 
 ## 2025
 
