@@ -15,6 +15,14 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   [🤗](link){: .pub-link .pub-icon title="Data" aria-label="Data"}
 -->
 
+## 2027
+
+* <span class="pub-badge conf">EACL Findings</span>
+  [What Is The Political Content in LLMs' Pre-and Post-Training Data?](https://arxiv.org/pdf/2509.22367){: .pub-title}
+  <span class="pub-authors">**Tanise Ceron**, Dmitry Nikolaev, Dominik Stammbach, Debora Nozza</span>
+  <span class="pub-venue">_Findings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, Athens, Greece, to appear</span>
+  <span class="pub-links">[arXiv](https://arxiv.org/pdf/2509.22367){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/stancepol){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/political_content_training_data){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
+
 ## 2026
 
 * <span class="pub-badge conf">EMNLP</span>
@@ -40,12 +48,6 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   <span class="pub-authors">Franziska Weeber, **Tanise Ceron**, Sebastian Padó</span>
   <span class="pub-venue">_Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, Rabat, Morocco</span>
   <span class="pub-links">[ACL Anthology](https://aclanthology.org/2026.eacl-long.14/){: .pub-link} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/frawee/cross_lingual_opinion_transfer){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
-
-* <span class="pub-badge preprint">Preprint</span>
-  [What Is The Political Content in LLMs' Pre-and Post-Training Data?](https://arxiv.org/pdf/2509.22367){: .pub-title}
-  <span class="pub-authors">**Tanise Ceron**, Dmitry Nikolaev, Dominik Stammbach, Debora Nozza</span>
-  <span class="pub-venue">_Preprint_, arXiv:2509.22367</span>
-  <span class="pub-links">[arXiv](https://arxiv.org/pdf/2509.22367){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/stancepol){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/political_content_training_data){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
 ## 2025
 
