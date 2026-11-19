@@ -17,7 +17,7 @@ Icon buttons for code (GitHub) and data (Hugging Face):
 
 ## 2027
 
-* <span class="pub-badge conf">EACL Findings</span>
+* <span class="pub-badge conf">EACL</span>
   [What Is The Political Content in LLMs' Pre-and Post-Training Data?](https://arxiv.org/pdf/2509.22367){: .pub-title}
   <span class="pub-authors">**Tanise Ceron**, Dmitry Nikolaev, Dominik Stammbach, Debora Nozza</span>
   <span class="pub-venue">_Findings of the Conference of the European Chapter of the Association for Computational Linguistics (EACL)_, Athens, Greece, to appear</span>
