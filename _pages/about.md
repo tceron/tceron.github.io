@@ -56,6 +56,7 @@ A hands-on guide on how to run evaluation of LLM outputs reliably.
 
 **Datasets**
 
+* **[WildSEEK](https://huggingface.co/datasets/tceron/wildseek)**: information-seeking queries annotated for high-risk sensitive topics and open-endedness.
 * **[StancePol](https://huggingface.co/datasets/tceron/stancepol)**: political stances in LLM training documents.
 * **[ProbVAA](https://huggingface.co/datasets/tceron/probvaa)**: questions compiled from 7 voting advice applications from European countries. Further annotations on policy issues are available [here](https://github.com/tceron/eval_political_worldviews/blob/main/data/human_annotations/annotations_spiderweb_gold.csv).
 * **[FrameNews-PT](https://github.com/tceron/FrameNews-PT/blob/main/data/frames_recsys_test.csv)**: news articles from Brazil annotated with media frame labels from 2 annotators.
