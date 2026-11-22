@@ -1,22 +1,23 @@
-<details class="info-section" markdown="1">
-<summary>Grant awards</summary>
+## Grant awards
 
 * **MINT-INNOVATION 2024** - [MINT-INNOVATION](https://vector-stiftung.de/15-millionen-euro-fuer-innovative-mint-forschung-in-baden-wuerttemberg-2/), Germany. 100,000 EUR funded by Vector-Stiftung. Co-led with [Amelie Wuehrl](https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en).
 * **Software Campus 2023** - [Software Campus](https://www.softwarecampus.de/), Germany. 114,000 EUR funded by BMBF.
 
-</details>
+## Workshop Organization
 
-<details class="info-section" markdown="1" open>
-<summary>Workshop Organization</summary>
-
+<div class="callout" markdown="1">
 **📢 [Call for Papers now open!](https://sites.google.com/view/multidems/home)**
+</div>
 
 * **[MultiDems - NLP for Democracies](https://sites.google.com/view/multidems/home)** - The 1st Multidisciplinary Workshop on NLP for Democracies, co-located with EACL 2027, Athens, Greece (hybrid).
 
-</details>
+## Media
 
-<details class="info-section" markdown="1">
-<summary>Talks/Panel Discussions</summary>
+* **[TGR Leonardo](https://www.rainews.it/tgr/rubriche/leonardo/video/2026/11/TGR-Leonardo-del-11112026-274767ef-d76d-4aa2-9b86-d3ca62942922.html)** (Rai, Italian program) — November 11, 2026. On the WildSEEK project.
+* **[Bocconi Magazine](https://www.unibocconi.it/en/news/chatgpt-not-oracle)** — _ChatGPT is not an oracle_.
+* **[Hertie School Blog](https://www.hertie-school.org/en/digitalgovernance/news/detail-1/content/tanise-ceron-explains-why-an-ai-cant-be-politically-neutral)** — _Tanise Ceron explains why an AI can't be politically neutral_.
+
+## Talks/Panel Discussions
 
 ### 2026
 
@@ -46,10 +47,7 @@
 * **Big Data.AI Summit**, Berlin, Germany — September 19. _Science Pitch on "How to burst the information bubble?"_ Co-presented with Amelie Wuehrl.
 * **NLP and IR group**, University of Mannheim — December 7. _A Platform for News Curation Focused on News Diversity._
 
-</details>
-
-<details class="info-section" markdown="1">
-<summary>Teaching</summary>
+## Teaching
 
 * [Summer semester 2025 and 2026] - Teaching Assistant for the master's course on Data Science and Business Analytics at Bocconi University.
 
@@ -59,10 +57,7 @@
 
 * [Summer semester 2023/2024] - Seminar on Argument Mining and Societal Discourse for master's students in Computational Linguistics at the University of Stuttgart, Germany. Co-taught with Franziska Webber. 
 
-</details>
-
-<details class="info-section" markdown="1">
-<summary>Thesis supervision</summary>
+## Thesis supervision
 
 I've supervised/I am supervising the following masters or bachelors' theses: 
 
@@ -73,20 +68,12 @@ I've supervised/I am supervising the following masters or bachelors' theses:
 * [MA] Assessing Large Language Models (LLMs) for Frame Prediction: A Study on Generalization Across Diverse Political Issues and Communication Contexts.
 * [MA] Analysis of Political Positioning from Politician’s Tweets.
 
-</details>
-
-<details class="info-section" markdown="1">
-<summary>Research visit</summary>
+## Research visit
 
 * [May 2024 - July 2024] - Research visit at the [Free University of Amsterdam](https://vu.nl/en), The Netherlands. Hosted by [Prof. Dr. Wouter van Atteveldt](https://vanatteveldt.com/). 
 
-</details>
-
-<details class="info-section" markdown="1">
-<summary>PhD degree</summary>
+## PhD degree
 
 PhD degree in computational linguistics from the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de) at the University of Stuttgart. October 14, 2024. 
 
 Thesis on **Methods for Mining Political Opinions from Texts and Large Language Models**  (Summa Cum Laude)
-
-</details>
