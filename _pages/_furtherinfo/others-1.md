@@ -61,7 +61,9 @@
 
 I've supervised/I am supervising the following masters or bachelors' theses: 
 
-* [BA] Steering objectivity in LLM-generated responses
+* [BA] Issue-Specific Political Stance Shifts in Large Language Models Through Direct Preference Optimization
+* [MA] Investigating Ideological Performance Disparities in Stance Classification Models.
+* [BA] Steering objectivity in LLM-generated responses.
 * [MA] The Effect of Data Removal and Rebalancing on Opinions Reflected in LLMs. 
 * [MA] Integrating News Frames into Recommender Systems: Effects on Normative Diversity and Quality of News Recommendations.
 * [MA] Framing Power and Agency in the Israel-Palestine Conflict: A Computational Analysis of American, British, and Arab Media.
