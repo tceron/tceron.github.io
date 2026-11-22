@@ -12,9 +12,6 @@ main:
   - title: "blog"
     url: /blog/
 
-  - title: "code"
-    url: https://github.com/tceron
-
 #  - title: "talks"
 #    url: /talks/
 

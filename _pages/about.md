@@ -64,7 +64,7 @@ A hands-on guide on how to run evaluation of LLM outputs reliably.
 ## Contact
 
 <ul class="contact-links">
-  <li>📧 tanise[dot]ceron[at]unibocconi.it</li>
+  <li>📧 tanise[dot]ceron[at]unibocconi[dot]it</li>
   <li>🎓 <a href="{{ site.author.googlescholar }}">Google Scholar</a> · <a href="{{ site.author.orcid }}">ORCID</a></li>
   <li>💻 <a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
   <li>🦋 <a href="https://bsky.app/profile/{{ site.author.bluesky }}">Bluesky</a> · <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>
