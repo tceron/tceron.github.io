@@ -32,10 +32,10 @@ Icon buttons for code (GitHub) and data (Hugging Face):
   <span class="pub-links">[ACL Anthology](https://aclanthology.org/2026.emnlp-main.763/){: .pub-link} [Website](https://tceron.github.io/wildseek-eval/){: .pub-link} [🤗](https://huggingface.co/datasets/tceron/wildseek){: .pub-link .pub-icon title="Data" aria-label="Data"} [<i class="fab fa-github" aria-hidden="true"></i>](https://github.com/tceron/wildseek-eval){: .pub-link .pub-icon title="Code" aria-label="Code"}</span>
 
 * <span class="pub-badge journal">TACL</span>
-  [Structuring the Space of Perspectives](https://arxiv.org/pdf/2608.12113){: .pub-title}
+  [Structuring the Space of Perspectives](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.827/140012/Structuring-the-Space-of-Perspectives){: .pub-title}
   <span class="pub-authors">Agnese Daffara, Sebastian Padó, **Tanise Ceron**</span>
-  <span class="pub-venue">_Transactions of the Association for Computational Linguistics (TACL)_, to appear</span>
-  [arXiv](https://arxiv.org/pdf/2608.12113){: .pub-link}
+  <span class="pub-venue">_Transactions of the Association for Computational Linguistics (TACL)</span>
+  [MIT Press Direct](https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.827/140012/Structuring-the-Space-of-Perspectives){: .pub-link}
 
 * <span class="pub-badge conf">FAccT</span>
   [Democratizing News Recommenders: Modeling Multiple Perspectives for News Candidate Generation with VQ-VAE](https://dl.acm.org/doi/abs/10.1145/3805689.3812406){: .pub-title}
